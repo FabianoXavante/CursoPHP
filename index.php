@@ -10,4 +10,5 @@
 ?>
 
 samu? seu cu
+o seu que é mais azul 
 Something is wrong with the XAMPP installation :-(
