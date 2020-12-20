@@ -10,4 +10,5 @@
 ?>
 
 samu? seu cu
+e cabe mil metros de bambu
 Something is wrong with the XAMPP installation :-(
