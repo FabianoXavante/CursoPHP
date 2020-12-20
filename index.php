@@ -8,4 +8,6 @@
 	header('Location: '.$uri.'/dashboard/');
 	exit;
 ?>
+
+samu? seu cu
 Something is wrong with the XAMPP installation :-(
